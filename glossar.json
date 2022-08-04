@@ -1,61 +1,62 @@
-[{
-		"headline": "Beschaffungslogistik",
-		"excerpt": "Der Begriff Beschaffungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Produktionslogistik",
-		"excerpt": "Der Begriff Produktionslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "üroduktionslogistik.html"
-	},
-	{
-		"headline": "Entsorgungslogistik",
-		"excerpt": "Der Begriff Entsorgungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Lagerlogistik",
-		"excerpt": "Der Begriff Lagerlogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Beschaffungslogistik",
-		"excerpt": "Der Begriff Beschaffungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Produktionslogistik",
-		"excerpt": "Der Begriff Produktionslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Entsorgungslogistik",
-		"excerpt": "Der Begriff Entsorgungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Lagerlogistik",
-		"excerpt": "Der Begriff Lagerlogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Beschaffungslogistik",
-		"excerpt": "Der Begriff Beschaffungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Produktionslogistik",
-		"excerpt": "Der Begriff Produktionslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Entsorgungslogistik",
-		"excerpt": "Der Begriff Entsorgungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	},
-	{
-		"headline": "Lagerlogistik",
-		"excerpt": "Der Begriff Lagerlogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-		"file": "beschaffungslogistik.html"
-	}
+[
+  {
+    "headline": "Beschaffungslogistik",
+    "excerpt": "Der Begriff Beschaffungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
+    "file": "beschaffungslogistik.html"
+  },
+  {
+    "headline": "Produktionslogistik",
+    "excerpt": "Der Begriff Produktionslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
+    "file": "produktionslogistik.html"
+  },
+  {
+    "headline": "Entsorgungslogistik",
+    "excerpt": "Der Begriff Entsorgungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
+    "file": "entsorgungslogistik.html"
+  },
+  {
+    "headline": "Lagerlogistik",
+    "excerpt": "Der Begriff Lagerlogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
+    "file": "lagerlogistik.html"
+  },
+  {
+    "headline": "SLA",
+    "excerpt": "Ein Service Level Agreement (kurz: SLA) ist die Vereinbarung zwischen Auftraggeber und Dienstleister über die Qualität der zu erbringenden Leistung. [...]",
+    "file": "sla.html"
+  },
+  {
+    "headline": "Storage",
+    "excerpt": "Der Begriff „Storage“ beschreibt im IT-Bereich jede Form von Lösungen zur Speicherung digitaler Daten. [...]",
+    "file": "storage.html"
+  },
+  {
+    "headline": "IT-Infrastruktur",
+    "excerpt": "IT-Infrastruktur bezeichnet alle materiellen und immateriellen Güter, die den Betrieb von Endgeräten, Servern, Datenbanken, Applikationen und anderen IT-Komponenten ermöglichen. [...]",
+    "file": "itinfrastruktur.html"
+  },
+  {
+    "headline": "Virtualisierung",
+    "excerpt": "Virtualisierung ist der Prozess der Erstellung einer softwarebasierten (virtuellen) Komponente, an Stelle einer hardwarebasierten (physischen). [...]",
+    "file": "veschaffungslogistik.html"
+  },
+  {
+    "headline": "Linux",
+    "excerpt": "Das unix-ähnliche, quelloffene Mehrbenutzer-Betriebssystem Linux wird weltweit von Systementwicklern weiterentwickelt und steuert heute die meisten Webserver und Supercomputer. [...]",
+    "file": "linux.html"
+  },
+  {
+    "headline": "Backup",
+    "excerpt": "Sicherung von Daten auf einer separaten, technisch unabhängigen → Hardware. Diese sollte räumlich entfernt sein, zum Schutz gegen Diebstahl, Feuer etc. [...]",
+    "file": "backup.html"
+  },
+  {
+    "headline": "Repository",
+    "excerpt": "Ein verwaltetes Verzeichnis zur Speicherung und Beschreibung digitaler Inhalte. [...]",
+    "file": "repository.html"
+  },
+  {
+    "headline": "ZIP",
+    "excerpt": "Dateiformat (erkennbar an der Dateiendung .zip) mit komprimierten Dateien und Ordnern in einem sog. Archiv. Reduziert den Speicherplatzbedarf und die Übertragungszeit / -kosten bei Versand/ Austausch. [...]",
+    "file": "zip.html"
+  }
 ]
