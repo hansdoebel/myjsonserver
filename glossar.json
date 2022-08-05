@@ -1,62 +1,82 @@
 [
   {
-    "headline": "Beschaffungslogistik",
-    "excerpt": "Der Begriff Beschaffungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-    "file": "beschaffungslogistik.html"
+    "headline": "Anwendungsprogramm",
+    "excerpt": "Programm, das einem bestimmten Zweck, nämlich einer Anwendung dient. Ein Anwendungsprogramm ist beispielsweise eine Textverarbeitung oder ein Bildbearbeitungsprogramm. [...]",
+    "file": "anwendungsprogramm.html"
   },
   {
-    "headline": "Produktionslogistik",
-    "excerpt": "Der Begriff Produktionslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-    "file": "produktionslogistik.html"
+    "headline": "Applet",
+    "excerpt": "Applets sind kleine Module, die in Java programmiert sind und in HTML-Seiten eingebunden werden können. Das Programm wird ausgeführt, wenn der Browser java-fähig ist. [...]",
+    "file": "applet.html"
   },
   {
-    "headline": "Entsorgungslogistik",
-    "excerpt": "Der Begriff Entsorgungslogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-    "file": "entsorgungslogistik.html"
+    "headline": "Backbone",
+    "excerpt": "Der Backbone ist der Hauptstrang eines Netzwerks. Die Internet-Backbones sind daher die wichtigsten Verbindungen der großen Provider. [...]",
+    "file": "backbone.html"
   },
   {
-    "headline": "Lagerlogistik",
-    "excerpt": "Der Begriff Lagerlogistik als Teil der Beschaffung und der Logistik bezeichnet in der Betriebswirtschaftslehre den Prozess des Wareneinkaufs [...]",
-    "file": "lagerlogistik.html"
+    "headline": "Betriebssystem",
+    "excerpt": "Betriebssysteme sind die wichtigsten Programme. Ohne sie läuft ein Computer nicht. Sie werden beim Start (Booten) z.B. eines Computers oder Smartphone zuerst geladen. [...]",
+    "file": "betriebssystem.html"
   },
   {
-    "headline": "SLA",
-    "excerpt": "Ein Service Level Agreement (kurz: SLA) ist die Vereinbarung zwischen Auftraggeber und Dienstleister über die Qualität der zu erbringenden Leistung. [...]",
-    "file": "sla.html"
+    "headline": "Cache",
+    "excerpt": "Pufferspeicher, der Daten schneller zur Bearbeitung bereitstellt. Zum Beispiel: Lokales Verzeichnis für beim Surfen im Internet besuchte Seiten, die so nicht neuerlich geladen werden müssen. [...]",
+    "file": "cache.html"
   },
   {
-    "headline": "Storage",
-    "excerpt": "Der Begriff „Storage“ beschreibt im IT-Bereich jede Form von Lösungen zur Speicherung digitaler Daten. [...]",
-    "file": "storage.html"
+    "headline": "Exploit",
+    "excerpt": "Als Exploit bezeichnet man eine Methode oder einen Programmcode, mit dem über eine Schwachstelle in Hard- oder Software-Komponenten nicht vorgesehene Befehle oder Funktionen ausgeführt werden können. [...]",
+    "file": "exploit.html"
   },
   {
-    "headline": "IT-Infrastruktur",
-    "excerpt": "IT-Infrastruktur bezeichnet alle materiellen und immateriellen Güter, die den Betrieb von Endgeräten, Servern, Datenbanken, Applikationen und anderen IT-Komponenten ermöglichen. [...]",
-    "file": "itinfrastruktur.html"
+    "headline": "Geheimer Schlüssel",
+    "excerpt": "Geheime Schlüssel werden im Zusammenhang mit symmetrischen Kryptoalgorithmen verwendet. [...]",
+    "file": "geheimer_schluessel.html"
   },
   {
-    "headline": "Virtualisierung",
-    "excerpt": "Virtualisierung ist der Prozess der Erstellung einer softwarebasierten (virtuellen) Komponente, an Stelle einer hardwarebasierten (physischen). [...]",
-    "file": "veschaffungslogistik.html"
+    "headline": "Icon",
+    "excerpt": "Kleine Bildelemente, die bei graphischen Benutzeroberflächen als Ergänzung bei Dateien eingesetzt werden. Über Icons lassen sich in der Regel auch Programme starten (durch Klick oder Doppelklick mit dem Mauszeiger).[...]",
+    "file": "icon.html"
   },
   {
-    "headline": "Linux",
-    "excerpt": "Das unix-ähnliche, quelloffene Mehrbenutzer-Betriebssystem Linux wird weltweit von Systementwicklern weiterentwickelt und steuert heute die meisten Webserver und Supercomputer. [...]",
-    "file": "linux.html"
+    "headline": "Lager",
+    "excerpt": "Mechanische Vorrichtung um sich drehende Dinge in einer definierten Position zu halten. Im Computer werden Lager beispielsweise in Lüftern und Festplatten verwendet. [...]",
+    "file": "lager.html"
   },
   {
-    "headline": "Backup",
-    "excerpt": "Sicherung von Daten auf einer separaten, technisch unabhängigen → Hardware. Diese sollte räumlich entfernt sein, zum Schutz gegen Diebstahl, Feuer etc. [...]",
-    "file": "backup.html"
+    "headline": "Login",
+    "excerpt": "Anmeldevorgang für die Nutzung eines PC, von einzelnen auf dem PC installierten Programmen oder von Online-Diensten. [...]",
+    "file": "login.html"
   },
   {
-    "headline": "Repository",
-    "excerpt": "Ein verwaltetes Verzeichnis zur Speicherung und Beschreibung digitaler Inhalte. [...]",
-    "file": "repository.html"
+    "headline": "Mailbox",
+    "excerpt": "Eine zentrale Funktion von E-Mail-Programmen etwa von Microsoft Outlook oder Thunderbird von Mozilla besteht darin, erhaltene oder geschriebene Mails zu archivieren. Mails aus dem Bereich Posteingang können in andere Mailboxordner verschoben und dort verwaltet werden. [...]",
+    "file": "mailbox.html"
   },
   {
-    "headline": "ZIP",
-    "excerpt": "Dateiformat (erkennbar an der Dateiendung .zip) mit komprimierten Dateien und Ordnern in einem sog. Archiv. Reduziert den Speicherplatzbedarf und die Übertragungszeit / -kosten bei Versand/ Austausch. [...]",
-    "file": "zip.html"
+    "headline": "PDA",
+    "excerpt": "Personal Digital Assistant. Kleiner, handlicher Computer, der hauptsächlich für persönliche Aufgaben wie Adress- und Kalenderverwaltung, Terminplanung, E-Mail und Projektmanagement genutzt wird. [...]",
+    "file": "pda.html"
+  },
+  {
+    "headline": "Pharming",
+    "excerpt": "Wie beim Phishing sind auch beim Pharming meist Zugangsdaten das Ziel eines Angriffs. Der Unterschied zum Phishing besteht darin, dass beim Pharming die Infrastruktur so manipuliert wird, dass das Opfer auch dann auf einer gefälschten Webseite landet, wenn er die korrekte Adresse des Dienstes eingeben hat.[...]",
+    "file": "pharming.html"
+  },
+  {
+    "headline": "Ping",
+    "excerpt": "Ein Computerprogramm, mit dem überprüft werden kann, ob ein bestimmter Rechner im Netzwerk erreichbar ist. [...]",
+    "file": "ping.html"
+  },
+  {
+    "headline": "Port",
+    "excerpt": "Ein Port spezifiziert einen Dienst, der von außen auf einem Server angesprochen werden kann. Dadurch ist es möglich, auf einem Server verschiedene Dienste (z. B. WWW und E-Mail) gleichzeitig anbieten zu können. [...]",
+    "file": "port.html"
+  },
+  {
+    "headline": "Programmiersprache",
+    "excerpt": "Mit Hilfe von Programmiersprachen werden Programme erstellt. Dazu werden Befehlsfolgen aneinandergereiht, die – nachdem sie mit Hilfe eines Compilers in eine maschinenlesbare Form gebracht wurden – auf einem Rechner zur Ausführung gebracht werden können. [...]",
+    "file": "programmiersprache.html"
   }
 ]
